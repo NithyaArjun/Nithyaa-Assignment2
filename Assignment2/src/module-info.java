@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Random {
+module Assignment2 {
 }
